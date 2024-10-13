@@ -1,0 +1,36 @@
+.containerInfo {
+    height: 473px;
+    background: #AA9E54;
+    display: grid;
+    place-items: center;
+}
+
+.innerInfo {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 80px;
+    width: 100%;
+    max-width: 1328px;
+    color: #FFFFFF;
+}
+
+.boxInfoLocation,
+.boxInfoHours,
+.boxInfoDays {
+    text-align: center;
+}
+
+.infoTitle {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 21.6px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.info {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 36.4px;
+    text-align: center;
+}

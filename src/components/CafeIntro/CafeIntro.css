@@ -1,0 +1,32 @@
+.containIntro {
+    background: #4A2B33;
+    height: 461px;
+    color: #D27487;
+    padding: 120px 20px;
+    display: block;
+    align-items: center;
+}
+
+.introCafe {
+    display: grid;
+    grid-template-columns: 413px 595px;
+    grid-template-rows: 125px 189px;
+    width: 1360px;
+    height: 221px;
+    padding: 0.25px 20px;
+    column-gap: 267px;
+}
+.titleCafe{
+font-size: 47px;
+font-weight: 400;
+line-height: 62.5px;
+letter-spacing: 1px;
+text-align: left;
+}
+.textCafe{
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+
+}

@@ -1,0 +1,47 @@
+.header {
+    display: flex;
+    padding: 20px 22.5px;
+    background: #4A2B33;
+    height: 75px;
+}
+
+.headerLeft {
+    color: #D27487;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-menu {
+    display: flex;
+    width: 398.39px;
+    height: 25px;
+    padding-left: 36px;
+
+}
+
+.header-menu-elem {
+    margin-left: 20px;
+    width: 40px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 276px;
+    height: 32px;
+    margin-left: 127.61px;
+}
+
+.headerRight {
+    display: flex;
+    align-items: center;
+    margin-left: 422px;
+}
+
+.headerImg {
+    width: 23.2px;
+    height: 18.56px;
+    margin-right: 17px;
+}

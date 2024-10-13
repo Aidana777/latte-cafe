@@ -1,0 +1,30 @@
+.bannerContainer {
+    display: grid;
+    width: 1400px;
+    height: 672px;
+    margin: 0 auto;
+    margin: 120px 20px;
+}
+
+.bannerBox {
+    display: grid;
+    grid-template-columns: repeat(2, 644px);
+    grid-template-rows: 300px 300px 640px;
+    width: 1328px;
+    height: 640px;
+    margin: 0 auto;
+    column-gap: 40px;
+
+}
+
+.element1 {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    height: 640px;
+}
+
+.img {
+    width: 644px;
+    height: 300px;
+}

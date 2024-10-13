@@ -1,0 +1,78 @@
+.menuContainer {
+    height: 1277px;
+    background: #E9E9E3;
+    display: flex;
+}
+
+.BoxContainer {
+    padding: 120px 20px;
+    display: grid;
+}
+
+.innerBoxMenu {
+    padding: 0 36px 0 36px;
+    display: grid;
+    grid-template-columns: 560px 664px;
+    column-gap: 104px;
+    color: #6F6F64;
+}
+
+.textsLeftBox {
+    width: 560px;
+    height: 185px;
+    padding: 0px 2px 11px 0px;
+}
+
+.textsLeftBox h6 {
+    width: 49px;
+    height: 22px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.6px;
+    text-align: left;
+    padding-bottom: 17px
+}
+
+.textsLeftBox p {
+    width: 558px;
+    height: 135px;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44.8px;
+    text-align: left;
+}
+.buttons {
+    margin-top: 63px;
+    display: flex;
+    flex-direction: column; /* Кнопки расположатся вертикально */
+    gap: 12px;
+}
+
+.btn {
+    width: 531px;
+    height: 58px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.fullColor {
+    color: #FFFFFF;
+    border: 2px solid #6F6F64;
+    background: #6F6F64;
+}
+
+.emptyInner {
+    color: #6F6F64;
+    background-color: transparent;
+}
+
+.rightMenu {
+    width: 664px;
+    height: 1037px;
+    padding-right: 36px;
+    background-color: coral;
+}

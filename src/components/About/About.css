@@ -1,0 +1,35 @@
+.aboutBox {
+    padding: 220px 270px;
+    margin: 0 auto;
+}
+
+.innerbox {
+    width: 900px;
+    height: 273px;
+    padding: 0px 16px 24px 15px;
+}
+
+.titleBox {
+    margin: 3px auto;
+    width: 93px;
+    height: 22px;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 21.6px;
+    text-align: center;
+    color: #222222;
+    display: block;
+}
+
+.textBox {
+    font-family: Inter, sans-serif; 
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 44.8px;
+    width: 869px;
+    height: 224px;
+    display: block;
+    margin: 0 auto; 
+    text-align: center; 
+}
