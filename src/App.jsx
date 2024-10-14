@@ -4,7 +4,7 @@ import Content from './components/Content/Content'
 import Header from './components/header/Header'
 import Info from './components/Info/Info'
 import Menu from './components/Menu/Menu'
-import Banner from './components/Banner/banner'
+import Banner from './components/Banner/Banner'
 import CafeIntro from './components/CafeIntro/CafeIntro'
 import Footer from './components/Footer/Footer'
 const App = () => {
